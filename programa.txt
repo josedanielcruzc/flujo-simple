@@ -1,0 +1,4 @@
+{
+   Version estable de mi programa
+	-version 1.0.0
+   }
