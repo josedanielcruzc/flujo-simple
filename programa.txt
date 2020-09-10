@@ -3,4 +3,5 @@
 	-v1.0.0
         -feature1, cambio 1
         -feature1, cambio 2
+        -feature2, cambio 1
    }
