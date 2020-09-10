@@ -1,4 +1,5 @@
 {
    Version estable de mi programa
 	-v1.0.0
+        -feature2, cambio 1
    }
